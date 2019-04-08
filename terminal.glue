@@ -1,0 +1,20 @@
+█ [ C:\Users\Shubham\Documents\sandbox\python_sandbox\files\scrape ] pip install bs4
+Collecting bs4
+  Using cached https://files.pythonhosted.org/packages/10/ed/7e8b97591f6f456174139ec089c769f89a94a1a4025fe967691de971f314/bs4-0.0.1.tar.gz
+Collecting beautifulsoup4 (from bs4)
+  Downloading https://files.pythonhosted.org/packages/1d/5d/3260694a59df0ec52f8b4883f5d23b130bc237602a1411fa670eae12351e/beautifulsoup4-4.7.1-py3-none-any.whl (94kB)
+Collecting soupsieve>=1.2 (from beautifulsoup4->bs4)
+  Downloading https://files.pythonhosted.org/packages/c9/f8/e54b1d771ed4fab66b3fa1c178e137a3c73d84fb6f64329bddf0da5a371c/soupsieve-1.9-py2.py3-none-any.whl
+Installing collected packages: soupsieve, beautifulsoup4, bs4
+  Running setup.py install for bs4: started
+    Running setup.py install for bs4: finished with status 'done'
+Successfully installed beautifulsoup4-4.7.1 bs4-0.0.1 soupsieve-1.9
+
+█ [ C:\Users\Shubham\Documents\sandbox\python_sandbox\files\scrape ] pip install requests
+Requirement already satisfied: requests in c:\users\shubham\appdata\local\programs\python\python37\lib\site-packages (2.19.1)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\shubham\appdata\local\programs\python\python37\lib\site-packages (from requests) (3.0.4)
+Requirement already satisfied: idna<2.8,>=2.5 in c:\users\shubham\appdata\local\programs\python\python37\lib\site-packages (from requests) (2.7)
+Requirement already satisfied: urllib3<1.24,>=1.21.1 in c:\users\shubham\appdata\local\programs\python\python37\lib\site-packages (from requests) (1.23)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\shubham\appdata\local\programs\python\python37\lib\site-packages (from requests) (2018.4.16)
+
+ 
